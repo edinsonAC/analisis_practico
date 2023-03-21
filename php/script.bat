@@ -1,19 +1,30 @@
-if not exist resultado1 mkdir resultado1
-java ../MatrizAleatoria.java 2 2 > ./resultado1/matriz1.txt
-php MatrizLoca.php < ./resultado1/matriz1.txt > ./resultado1/resultado1.txt
+@echo off
+setlocal
 
-if not exist resultado2 mkdir resultado2
-java ../MatrizAleatoria.java 5 5 > ./resultado2/matriz2.txt
-php MatrizLoca.php < ./resultado2/matriz2.txt > ./resultado2/resultado2.txt
+set NUM_RUNS=20
+if not exist resultados mkdir resultados
 
-if not exist resultado3 mkdir resultado3
-java ../MatrizAleatoria.java 10 10 > ./resultado3/matriz3.txt
-php MatrizLoca.php < ./resultado3/matriz3.txt > ./resultado3/resultado3.txt
+for /l %%i in (1,1,%NUM_RUNS%) do (
 
-if not exist resultado4 mkdir resultado4
-java ../MatrizAleatoria.java 50 50 > ./resultado4/matriz4.txt
-php MatrizLoca.php < ./resultado4/matriz4.txt > ./resultado4/resultado4.txt
+    if not exist resultados\matriz_2_2 mkdir resultados\matriz_2_2
+    java ../MatrizAleatoria.java 2 2 > resultados\matriz_2_2\matriz%%i.txt
+    php MatrizLoca.php < resultados\matriz_2_2\matriz%%i.txt > resultados\matriz_2_2\resultado%%i.txt
 
-if not exist resultado5 mkdir resultado5
-java ../MatrizAleatoria.java 100 100 > ./resultado5/matriz5.txt
-php MatrizLoca.php < ./resultado5/matriz5.txt > ./resultado5/resultado5.txt
+    if not exist resultados\matriz_5_5 mkdir resultados\matriz_5_5
+    java ../MatrizAleatoria.java 5 5 > resultados\matriz_5_5\matriz%%i.txt
+    php MatrizLoca.php < resultados\matriz_5_5\matriz%%i.txt > resultados\matriz_5_5\resultado%%i.txt
+
+    if not exist resultados\matriz_10_10 mkdir resultados\matriz_10_10
+    java ../MatrizAleatoria.java 10 10 > resultados\matriz_10_10\matriz%%i.txt
+    php MatrizLoca.php < resultados\matriz_10_10\matriz%%i.txt > resultados\matriz_10_10\resultado%%i.txt
+
+    if not exist resultados\matriz_50_50 mkdir resultados\matriz_50_50
+    java ../MatrizAleatoria.java 50 50 > resultados\matriz_50_50\matriz%%i.txt
+    php MatrizLoca.php < resultados\matriz_50_50\matriz%%i.txt > resultados\matriz_50_50\resultado%%i.txt
+
+    if not exist resultados\matriz_100_100 mkdir resultados\matriz_100_100
+    java ../MatrizAleatoria.java 100 100 > resultados\matriz_100_100\matriz%%i.txt
+    php MatrizLoca.php < resultados\matriz_100_100\matriz%%i.txt > resultados\matriz_100_100\resultado%%i.txt
+)
+
+endlocal

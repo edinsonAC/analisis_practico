@@ -1,0 +1,6 @@
+88 54 26 33 42
+76 70 83 69 92
+70 76 75 79 8
+26 94 76 48 9
+102 25 62 41 75
+El programa tardó 0.42605400085449 milisegundos en ejecutarse.

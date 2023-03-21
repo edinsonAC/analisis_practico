@@ -1,0 +1,6 @@
+65 86 37 42 14
+47 9 90 19 21
+60 11 41 53 90
+38 53 15 86 7
+89 10 84 6 26
+El programa tardó 0.41294097900391 milisegundos en ejecutarse.

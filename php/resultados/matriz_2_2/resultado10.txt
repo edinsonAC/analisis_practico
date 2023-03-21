@@ -1,0 +1,3 @@
+48 23
+65 81
+El programa tardó 0.36883354187012 milisegundos en ejecutarse.

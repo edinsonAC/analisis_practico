@@ -1,0 +1,6 @@
+68 38 23 28 8
+53 84 52 55 9
+84 74 66 24 31
+81 21 33 54 84
+35 79 23 35 99
+El programa tardó 0.42104721069336 milisegundos en ejecutarse.

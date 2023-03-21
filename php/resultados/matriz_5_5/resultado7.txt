@@ -1,0 +1,6 @@
+93 99 54 24 56
+55 24 65 74 26
+37 15 50 61 24
+11 95 33 93 47
+61 5 92 45 88
+El programa tardó 0.43201446533203 milisegundos en ejecutarse.

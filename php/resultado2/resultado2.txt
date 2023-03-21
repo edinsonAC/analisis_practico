@@ -1,6 +1,0 @@
-101 71 75 100 23
-91 84 63 55 88
-44 68 84 50 5
-80 50 63 6 35
-25 4 91 93 24
-El programa tardó 0.36287307739258 milisegundos en ejecutarse.

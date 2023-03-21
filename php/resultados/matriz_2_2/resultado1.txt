@@ -1,0 +1,3 @@
+36 36
+72 66
+El programa tardó 4.3880939483643 milisegundos en ejecutarse.

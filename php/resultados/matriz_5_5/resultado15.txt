@@ -1,0 +1,6 @@
+79 83 48 29 10
+24 73 41 47 5
+20 34 93 42 63
+17 12 13 23 89
+41 35 36 85 9
+El programa tardó 0.41294097900391 milisegundos en ejecutarse.

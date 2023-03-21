@@ -1,0 +1,3 @@
+56 76
+55 86
+El programa tardó 0.24199485778809 milisegundos en ejecutarse.

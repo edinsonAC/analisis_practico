@@ -1,0 +1,6 @@
+27 20 57 40 61
+74 17 94 66 6
+34 78 3 4 79
+79 43 11 74 26
+65 28 44 25 47
+El programa tardó 0.42104721069336 milisegundos en ejecutarse.

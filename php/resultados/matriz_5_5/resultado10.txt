@@ -1,0 +1,6 @@
+100 81 4 48 50
+36 43 23 10 11
+99 50 38 24 44
+32 30 96 66 55
+59 68 94 3 20
+El programa tardó 0.41913986206055 milisegundos en ejecutarse.

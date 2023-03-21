@@ -1,0 +1,6 @@
+95 62 15 91 11
+79 40 76 22 14
+38 10 38 64 70
+48 60 32 8 94
+46 37 78 33 74
+El programa tardó 0.43106079101562 milisegundos en ejecutarse.

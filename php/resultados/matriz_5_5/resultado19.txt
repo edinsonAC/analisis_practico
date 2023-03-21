@@ -1,0 +1,6 @@
+16 73 8 1 41
+33 34 49 54 46
+77 41 83 45 72
+30 88 60 54 88
+102 56 96 14 57
+El programa tardó 0.42486190795898 milisegundos en ejecutarse.

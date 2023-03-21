@@ -1,0 +1,6 @@
+26 60 83 31 54
+87 70 83 60 47
+61 88 74 86 41
+50 80 9 74 45
+85 45 86 94 87
+El programa tardó 0.42200088500977 milisegundos en ejecutarse.

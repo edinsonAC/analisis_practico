@@ -1,0 +1,3 @@
+94 82
+4 24
+El programa tardó 0.28300285339355 milisegundos en ejecutarse.
