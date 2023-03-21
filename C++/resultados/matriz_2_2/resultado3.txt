@@ -1,0 +1,3 @@
+20 75
+91 87
+El programa tardo 0 milisegundos en ejecutarse.

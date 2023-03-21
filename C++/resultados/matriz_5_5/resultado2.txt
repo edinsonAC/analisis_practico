@@ -1,0 +1,6 @@
+37 25 68 1 46
+95 51 31 74 39
+39 35 41 93 6
+39 35 49 25 95
+29 10 77 81 71
+El programa tardo 0 milisegundos en ejecutarse.

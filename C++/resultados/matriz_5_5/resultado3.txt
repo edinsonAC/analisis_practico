@@ -1,0 +1,6 @@
+88 10 37 99 6
+41 85 8 62 59
+90 6 34 52 59
+48 2 99 16 27
+71 17 50 11 51
+El programa tardo 0 milisegundos en ejecutarse.

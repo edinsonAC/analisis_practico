@@ -1,0 +1,6 @@
+64 28 91 62 70
+99 36 25 28 4
+48 12 37 9 67
+80 52 61 56 38
+90 46 97 9 31
+El programa tardo 0 milisegundos en ejecutarse.

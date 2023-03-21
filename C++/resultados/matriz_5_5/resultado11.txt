@@ -1,0 +1,6 @@
+79 49 33 90 48
+43 89 37 6 15
+55 40 76 28 92
+19 53 24 1 75
+36 49 97 76 28
+El programa tardo 0 milisegundos en ejecutarse.

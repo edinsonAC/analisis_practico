@@ -1,0 +1,6 @@
+47 45 31 11 8
+98 28 83 0 61
+73 13 46 14 13
+49 87 58 28 57
+17 68 42 15 8
+El programa tardo 0 milisegundos en ejecutarse.

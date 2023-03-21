@@ -1,0 +1,6 @@
+30 34 101 37 90
+78 29 43 35 45
+40 16 84 65 77
+71 77 82 2 63
+64 48 65 36 81
+El programa tardo 0 milisegundos en ejecutarse.

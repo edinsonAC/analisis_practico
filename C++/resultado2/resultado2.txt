@@ -1,6 +1,0 @@
-16 28 51 43 55
-61 86 58 21 40
-78 99 48 49 45
-56 6 42 66 64
-5 44 7 17 86
-El programa tardo 0 milisegundos en ejecutarse.

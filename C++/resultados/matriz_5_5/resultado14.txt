@@ -1,0 +1,6 @@
+12 5 17 32 99
+25 51 61 23 97
+35 16 16 64 75
+86 31 46 29 8
+7 86 43 57 85
+El programa tardo 0 milisegundos en ejecutarse.
