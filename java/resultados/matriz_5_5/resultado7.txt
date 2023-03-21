@@ -1,0 +1,6 @@
+100 76 51 16 55
+3 47 76 50 11
+37 39 60 30 73
+96 78 69 82 15
+53 84 67 80 13
+El programa tardó 31 milisegundos en ejecutarse.

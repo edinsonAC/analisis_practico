@@ -1,0 +1,6 @@
+24 41 41 5 72
+66 13 19 12 45
+45 61 83 51 25
+27 7 73 45 59
+25 79 58 37 27
+El programa tardó 32 milisegundos en ejecutarse.

@@ -1,0 +1,6 @@
+59 61 10 98 91
+34 6 13 46 13
+91 9 3 13 72
+50 48 15 31 54
+83 68 100 68 92
+El programa tardó 47 milisegundos en ejecutarse.

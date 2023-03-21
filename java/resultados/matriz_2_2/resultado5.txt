@@ -1,0 +1,3 @@
+9 25
+2 4
+El programa tardó 31 milisegundos en ejecutarse.

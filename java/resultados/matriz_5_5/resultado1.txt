@@ -1,0 +1,6 @@
+73 84 18 14 42
+88 38 61 76 81
+13 94 15 69 4
+17 1 78 96 51
+61 52 74 82 30
+El programa tardó 47 milisegundos en ejecutarse.

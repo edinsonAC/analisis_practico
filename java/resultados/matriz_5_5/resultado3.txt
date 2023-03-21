@@ -1,0 +1,6 @@
+60 71 4 52 100
+40 15 49 29 9
+97 31 85 99 49
+61 49 33 56 70
+66 35 15 38 7
+El programa tardó 31 milisegundos en ejecutarse.

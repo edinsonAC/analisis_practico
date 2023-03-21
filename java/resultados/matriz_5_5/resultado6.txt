@@ -1,0 +1,6 @@
+102 63 51 77 77
+91 49 35 2 31
+77 31 81 49 34
+6 3 98 17 44
+81 69 85 98 84
+El programa tardó 42 milisegundos en ejecutarse.

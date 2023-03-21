@@ -1,3 +1,0 @@
-297 426
-139 55
-El programa tardó 19 milisegundos en ejecutarse.

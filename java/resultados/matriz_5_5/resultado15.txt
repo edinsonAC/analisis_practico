@@ -1,0 +1,6 @@
+15 7 16 90 22
+22 18 7 10 75
+21 24 75 79 71
+63 92 58 34 79
+100 44 90 61 73
+El programa tardó 32 milisegundos en ejecutarse.

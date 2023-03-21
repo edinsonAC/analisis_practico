@@ -1,0 +1,6 @@
+22 81 13 58 95
+69 1 101 6 61
+65 74 49 15 37
+99 56 62 87 38
+77 42 9 83 19
+El programa tardó 47 milisegundos en ejecutarse.

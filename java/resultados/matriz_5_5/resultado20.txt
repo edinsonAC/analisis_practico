@@ -1,0 +1,6 @@
+54 39 42 12 55
+90 45 56 34 76
+86 18 88 85 25
+5 62 85 30 73
+83 18 42 34 89
+El programa tardó 42 milisegundos en ejecutarse.

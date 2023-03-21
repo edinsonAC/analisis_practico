@@ -1,0 +1,6 @@
+54 15 63 71 26
+70 71 45 2 24
+4 14 73 32 49
+29 34 34 91 51
+54 79 66 47 73
+El programa tardó 46 milisegundos en ejecutarse.

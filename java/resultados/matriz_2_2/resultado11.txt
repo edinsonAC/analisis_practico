@@ -1,0 +1,3 @@
+97 71
+42 -1
+El programa tardó 47 milisegundos en ejecutarse.

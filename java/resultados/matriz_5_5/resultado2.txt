@@ -1,0 +1,6 @@
+93 67 6 5 54
+69 70 98 37 39
+51 3 100 25 64
+83 13 81 12 74
+93 57 84 74 32
+El programa tardó 46 milisegundos en ejecutarse.

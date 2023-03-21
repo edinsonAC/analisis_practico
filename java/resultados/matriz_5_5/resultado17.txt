@@ -1,0 +1,6 @@
+102 83 37 5 64
+7 9 90 15 26
+51 40 94 84 18
+89 2 40 31 20
+14 17 93 59 8
+El programa tardó 47 milisegundos en ejecutarse.

@@ -1,0 +1,3 @@
+83 60
+23 87
+El programa tardó 47 milisegundos en ejecutarse.

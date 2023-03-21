@@ -1,0 +1,6 @@
+3 96 78 47 42
+17 36 85 93 22
+25 95 5 19 40
+6 73 48 36 91
+5 70 48 68 60
+El programa tardó 31 milisegundos en ejecutarse.
