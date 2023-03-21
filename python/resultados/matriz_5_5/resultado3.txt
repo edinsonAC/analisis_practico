@@ -1,0 +1,6 @@
+64 29 7 37 84
+89 9 98 46 13
+66 29 12 12 30
+43 81 6 2 95
+68 48 43 33 56
+El programa tardó 0.0 milisegundos en ejecutarse.

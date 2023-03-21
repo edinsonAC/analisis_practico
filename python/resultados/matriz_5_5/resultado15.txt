@@ -1,0 +1,6 @@
+18 100 13 8 30
+91 62 51 34 76
+23 71 70 45 81
+100 12 75 31 4
+72 49 53 26 53
+El programa tardó 0.0 milisegundos en ejecutarse.

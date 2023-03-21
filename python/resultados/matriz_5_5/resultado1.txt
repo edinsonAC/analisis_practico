@@ -1,0 +1,6 @@
+71 52 51 74 64
+56 41 14 61 33
+15 35 21 73 101
+33 27 69 57 44
+51 85 90 23 29
+El programa tardó 0.0 milisegundos en ejecutarse.

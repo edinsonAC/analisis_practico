@@ -1,0 +1,6 @@
+40 7 45 24 14
+97 26 77 72 98
+86 55 27 38 22
+44 50 13 6 9
+65 83 90 39 32
+El programa tardó 0.0 milisegundos en ejecutarse.

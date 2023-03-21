@@ -1,0 +1,6 @@
+4 12 21 82 21
+90 34 40 16 38
+78 61 62 85 93
+94 77 93 75 22
+95 94 6 24 78
+El programa tardó 0.0 milisegundos en ejecutarse.

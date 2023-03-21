@@ -1,0 +1,6 @@
+3 90 53 81 89
+13 35 97 23 84
+25 24 66 27 19
+92 9 73 85 46
+35 71 64 28 15
+El programa tardó 0.0 milisegundos en ejecutarse.

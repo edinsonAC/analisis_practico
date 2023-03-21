@@ -1,0 +1,6 @@
+71 18 30 31 22
+84 74 22 2 31
+50 90 97 25 78
+35 77 53 45 66
+75 95 70 81 57
+El programa tardó 0.0 milisegundos en ejecutarse.

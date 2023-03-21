@@ -1,0 +1,6 @@
+81 39 52 67 41
+83 42 40 17 85
+37 15 55 97 50
+35 85 22 8 17
+52 81 67 36 85
+El programa tardó 0.0 milisegundos en ejecutarse.

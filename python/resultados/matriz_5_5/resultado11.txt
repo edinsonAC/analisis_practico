@@ -1,0 +1,6 @@
+53 89 13 5 45
+3 81 54 91 84
+69 18 63 42 35
+55 32 90 18 71
+67 13 88 15 3
+El programa tardó 0.0 milisegundos en ejecutarse.

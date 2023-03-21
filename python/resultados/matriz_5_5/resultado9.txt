@@ -1,0 +1,6 @@
+88 21 43 24 94
+45 16 91 22 77
+47 27 63 22 49
+60 42 4 91 42
+87 18 32 87 68
+El programa tardó 0.0 milisegundos en ejecutarse.
