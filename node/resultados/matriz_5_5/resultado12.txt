@@ -1,0 +1,6 @@
+6 69 39 98 41
+15 41 33 74 7
+78 60 55 79 64
+46 32 60 96 80
+92 84 48 5 41
+El programa tarda 4 milisegundos en ejecutarse.

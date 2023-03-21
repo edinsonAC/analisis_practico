@@ -1,0 +1,6 @@
+70 30 17 5 57
+98 11 98 32 97
+44 35 91 79 68
+29 46 72 25 17
+56 88 24 96 53
+El programa tarda 6 milisegundos en ejecutarse.

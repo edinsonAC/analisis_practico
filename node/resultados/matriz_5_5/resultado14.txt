@@ -1,0 +1,6 @@
+14 7 71 93 20
+98 14 46 93 80
+83 23 24 28 4
+51 46 66 26 2
+90 67 33 18 33
+El programa tarda 5 milisegundos en ejecutarse.

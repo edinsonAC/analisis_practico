@@ -1,0 +1,6 @@
+55 8 91 48 71
+101 78 89 43 55
+13 11 35 45 21
+93 76 23 80 83
+29 73 33 64 53
+El programa tarda 7 milisegundos en ejecutarse.

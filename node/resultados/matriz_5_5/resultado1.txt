@@ -1,0 +1,6 @@
+43 84 34 96 93
+25 32 4 24 47
+74 97 42 40 23
+85 92 60 33 70
+29 92 83 83 83
+El programa tarda 7 milisegundos en ejecutarse.

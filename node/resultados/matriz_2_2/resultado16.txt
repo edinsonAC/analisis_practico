@@ -1,0 +1,3 @@
+33 56
+16 20
+El programa tarda 6 milisegundos en ejecutarse.

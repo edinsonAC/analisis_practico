@@ -1,0 +1,6 @@
+67 24 53 51 21
+38 47 33 34 92
+19 54 83 59 13
+38 88 84 11 86
+33 48 68 7 98
+El programa tarda 6 milisegundos en ejecutarse.

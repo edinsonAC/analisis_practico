@@ -1,0 +1,6 @@
+12 96 36 53 54
+13 81 68 37 16
+59 40 86 50 35
+85 39 75 74 74
+35 6 48 6 33
+El programa tarda 4 milisegundos en ejecutarse.

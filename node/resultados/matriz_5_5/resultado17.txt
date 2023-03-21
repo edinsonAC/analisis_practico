@@ -1,0 +1,6 @@
+102 29 4 8 23
+101 29 53 96 58
+39 83 26 68 51
+35 95 5 37 69
+7 100 18 83 48
+El programa tarda 4 milisegundos en ejecutarse.

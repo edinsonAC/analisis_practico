@@ -1,0 +1,6 @@
+27 72 41 32 8
+38 85 100 41 68
+61 39 18 99 61
+77 39 37 58 25
+12 17 54 44 29
+El programa tarda 4 milisegundos en ejecutarse.

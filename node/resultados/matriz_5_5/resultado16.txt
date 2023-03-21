@@ -1,0 +1,6 @@
+81 41 94 97 64
+9 90 68 45 79
+74 32 29 81 23
+50 87 70 60 47
+50 66 62 91 37
+El programa tarda 6 milisegundos en ejecutarse.

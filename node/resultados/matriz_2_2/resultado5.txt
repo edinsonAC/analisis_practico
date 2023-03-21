@@ -1,0 +1,3 @@
+26 24
+64 31
+El programa tarda 4 milisegundos en ejecutarse.

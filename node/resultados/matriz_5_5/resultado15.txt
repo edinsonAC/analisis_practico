@@ -1,0 +1,6 @@
+9 2 16 58 48
+48 18 7 16 95
+31 30 12 38 32
+67 54 29 95 25
+59 92 41 93 80
+El programa tarda 5 milisegundos en ejecutarse.

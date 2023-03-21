@@ -1,0 +1,6 @@
+24 10 83 25 86
+83 46 10 90 31
+62 69 91 26 63
+58 83 25 78 73
+81 39 78 70 66
+El programa tarda 4 milisegundos en ejecutarse.

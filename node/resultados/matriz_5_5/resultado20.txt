@@ -1,0 +1,6 @@
+90 18 92 76 51
+76 83 38 30 13
+49 60 7 53 40
+18 82 29 93 34
+31 9 47 19 47
+El programa tarda 6 milisegundos en ejecutarse.

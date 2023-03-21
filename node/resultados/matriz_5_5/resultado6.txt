@@ -1,0 +1,6 @@
+83 21 63 79 73
+45 9 33 47 86
+17 64 69 70 28
+3 54 46 64 97
+9 59 98 3 99
+El programa tarda 4 milisegundos en ejecutarse.

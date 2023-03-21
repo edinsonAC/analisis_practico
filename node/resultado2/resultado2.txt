@@ -1,6 +1,0 @@
-43 84 80 19 45
-81 95 33 73 5
-19 81 20 27 24
-71 -3 79 7 80
-26 59 36 79 29
-El programa tarda 4 milisegundos en ejecutarse.
